@@ -41,6 +41,7 @@ The Book Store Management project is a comprehensive Spring Boot application des
 
 This Book Store Management project successfully combines essential backend functionalities with a responsive and intuitive frontend, offering a comprehensive solution for bookstores to manage their inventory effectively. The adoption of industry-standard tools and practices ensures scalability, maintainability, and a secure environment for book-related operations.
 
+# Snapshots
 
 
 ![Screenshot 2024-01-09 191645](https://github.com/shivCan99/java-spring-book-store/assets/107194536/da9c0093-c155-46b2-a1b1-a12c0705da87)
